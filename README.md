@@ -4,7 +4,7 @@
 Topics covered:
 > Assembly Language
 
-> Processor ARchitecture
+> Processor Architecture
 
 > C Programming
 
