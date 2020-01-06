@@ -1,4 +1,4 @@
-# computer-systems-fundamentals-student
+# Computer Systems Fundamentals
 
 
 Topics covered:
