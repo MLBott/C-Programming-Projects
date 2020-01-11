@@ -1,7 +1,12 @@
 # Computer Systems Fundamentals
 
+## Task
+Understand the fundamentals of Computer Systems.
 
-Topics covered:
+## Output
+The repository contains work based on the topics below.
+
+## Criteria
 > Assembly Language
 
 > Processor Architecture
@@ -25,3 +30,8 @@ Topics covered:
 > Processes
 
 > Virtual Memory
+
+##Tech Stack
+> C
+
+> Linux (OS)
