@@ -31,7 +31,7 @@ The repository contains work based on the topics below.
 
 > Virtual Memory
 
-##Tech Stack
+## Tech Stack
 > C
 
 > Linux (OS)
