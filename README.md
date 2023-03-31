@@ -1,7 +1,7 @@
 # C Assorted Programs
 
 ## Task
-Understand the fundamentals of Computer Systems.
+Diverse C Programming Projects: Explore a Variety of Engaging Topics.
 
 ## Output
 The repository contains work based on the topics below.
